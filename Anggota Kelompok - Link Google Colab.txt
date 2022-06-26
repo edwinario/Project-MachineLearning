@@ -1,0 +1,10 @@
+Predict Car Price
+Anggota kelompok:
+2440062155 - Edwin Ario Abdiwijaya
+2440028350 - Nathaniel Orion
+2440019346 - Peter Samuel Lim
+
+Berikut di bawah ini link google colab,
+https://colab.research.google.com/drive/1Pzs5fUQTWh9lgpPJn6p3VAvXsRUvmTuj?usp=sharing
+
+terima kasih.
